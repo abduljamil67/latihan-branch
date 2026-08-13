@@ -1,0 +1,4 @@
+Jawaban:
+1.karena branch digunakan sebagai "ruang eksperimen" agar kita bisa menambah,mengedit, atau mengotak-atik kode tanpa merusak kode Utama
+2.Lebih aman bila kodingan di branch baru ternyata error, sehingga branch Utama tidak ikut rusak. dan juga memudahkan kerja Bersama karena memungkinkan kodingan agar tidak saling bertabrakan
+3.saat kita ingin menmbah fitur, memperbaiki bug, atau mencoba perubahan kode
